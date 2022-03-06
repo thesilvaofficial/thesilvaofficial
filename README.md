@@ -1,9 +1,9 @@
 ### 👋 Hello bro, I'm Rafael aka TheSilva♛
 
-<div align="center" style="display: inline-block">
-  <a href="https://github.com/thesilvaofficial">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesilvaofficial&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesilvaofficial&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaballerini&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Just a programming lover
