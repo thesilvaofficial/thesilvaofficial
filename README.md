@@ -1,11 +1,10 @@
 ### 👋 Hello bro, I'm Rafael aka TheSilva♛
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="TheSilva GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=thesilvaofficial&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" />
-
-</details>
+<div align="center">
+  <a href="https://github.com/thesilvaofficial">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thesilvaofficial&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thesilvaofficial&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 # Just a programming lover
 - 🏨 I'm currently working on a FiveM Server
