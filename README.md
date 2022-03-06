@@ -15,6 +15,8 @@
 ## Last Release:
 - [TheSilva_FCV v1.1](https://github.com/xthesilvax/TheSilva_FCV)
 
+![Snake animation](https://github.com/xthesilvax/xthesilvax/blob/output/github-contribution-grid-snake.svg)
+
 ## Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;"/>
@@ -24,6 +26,3 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
-
-
-![Snake animation](https://github.com/xthesilvax/xthesilvax/blob/output/github-contribution-grid-snake.svg)
