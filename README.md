@@ -13,7 +13,7 @@
 - 🏆 2022 Goals: Open my city of FiveM, Back to work on my CS:GO Server
 
 ## Last Release:
-- [TheSilva_FCV v1.1](https://github.com/thesilvaofficial/TheSilva_FCV)
+- [TheSilva_FCV v1.1](https://github.com/xthesilvax/TheSilva_FCV)
 
 ## Languages and Tools:
 
