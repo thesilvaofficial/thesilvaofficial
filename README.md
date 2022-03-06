@@ -26,4 +26,4 @@
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 
 
-![Snake animation](https://github.com/thesilvaofficial/thesilvaofficial/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/xthesilvax/xthesilvax/blob/output/github-contribution-grid-snake.svg)
