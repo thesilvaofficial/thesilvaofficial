@@ -14,6 +14,7 @@
 - 🍺 I live in Portugal
 
 ## Last Release:
+- [TheSilva_Fuel v1.0](https://github.com/xthesilvax/TheSilva_Fuel)
 - [TheSilva_FCV v1.1](https://github.com/xthesilvax/TheSilva_FCV)
 
 ![Snake animation](https://github.com/xthesilvax/xthesilvax/blob/output/github-contribution-grid-snake.svg)
