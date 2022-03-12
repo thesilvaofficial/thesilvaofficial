@@ -29,4 +29,4 @@
 <img align="left" alt="Lua" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 
-![](https://komarev.com/ghpvc/?username=xthesilvax?label=Profile+views&message=1234567890&color=blue)
+![](https://komarev.com/ghpvc/?username=xthesilvax&color=blue)
