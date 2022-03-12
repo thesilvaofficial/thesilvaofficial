@@ -1,7 +1,5 @@
 ### 👋 Hello bro, I'm Rafael aka TheSilva♛ 
 
-![](https://komarev.com/ghpvc/?username=xthesilvax&color=red)
-
 <div align="center">
   <a href="#"/>
   <img height="50%" src="https://github-readme-stats.vercel.app/api?username=xthesilvax&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25"/>
