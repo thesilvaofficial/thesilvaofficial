@@ -13,7 +13,7 @@
 - 🏆 2022 Goals: Open my city of FiveM, Back to work on my CS:GO Server
 - 🍺 I live in Portugal
 
-## Last Release:
+## Last Releases:
 - [TheSilva_Fuel v1.0](https://github.com/xthesilvax/TheSilva_Fuel)
 - [TheSilva_FCV v1.1](https://github.com/xthesilvax/TheSilva_FCV)
 
