@@ -8,9 +8,9 @@
 
 ## Just a programming lover
   
-- 🏨 I'm currently working on a FiveM Server
+- 🏨 I'm currently working on a Discord Bot
 - 🧑 Fun Fact: I love listening to music
-- 🏆 2022 Goals: Open my city of FiveM, Back to work on my CS:GO Server
+- 🏆 2022 Goals: Release my Discord Bot
 - 🍺 I live in Portugal
 
 ## Last Releases:
