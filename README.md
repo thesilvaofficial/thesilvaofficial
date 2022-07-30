@@ -1,4 +1,4 @@
-### 👋 Hello bro, I'm Rafael aka TheSilva♛ 
+### 👋 Hello, I'm Rafael aka TheSilva♛ 
 
 <div align="center">
   <a href="#"/>
