@@ -31,4 +31,4 @@
 <img align="left" alt="MySQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 
 ## Tools:
-<img align="left" alt="VSCode" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode" style="padding-right:10px;"/>
+<img align="left" alt="VSCode" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudiocode/visualstudiocode-original.svg" style="padding-right:10px;"/>
