@@ -14,7 +14,6 @@
 - 🍺 I live in Portugal
 
 ## Last Releases:
-- [My Website (Dev)](https://xthesilvax.github.io/thesilva)
 - [TheSilva_Fuel v1.0](https://github.com/xthesilvax/TheSilva_Fuel)
 - [TheSilva_FCV v1.1](https://github.com/xthesilvax/TheSilva_FCV)
 
