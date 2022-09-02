@@ -21,7 +21,7 @@
 ## Contributions:
 ![Snake animation](https://github.com/xthesilvax/xthesilvax/blob/output/github-contribution-grid-snake.svg)
 
-## Languages and Tools:
+## Languages:
 
 <img align="left" alt="HTML5" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="CSS3" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;"/>
@@ -29,3 +29,6 @@
 <img align="left" alt="Node.js" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="Lua" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
+
+## Tools:
+<img align="left" alt="VSCode" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode" style="padding-right:10px;"/>
