@@ -29,8 +29,3 @@
 <img align="left" alt="Lua" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" style="padding-right:10px;"/>
 <img align="left" alt="MySQL" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;"/>
 
-
-
-## Tools:
-<img align="left" alt="Atom" width="20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/atom/atom-original.svg" style="padding-right:10px;"/>
-
