@@ -14,7 +14,7 @@
 - 🍺 I live in Portugal
 
 ## Last Releases:
-#### CNC:
+#### Web Designs:
 - [CNC Code Simulator Website (Soon!)](https://github.com/xthesilvax/)
 
 
