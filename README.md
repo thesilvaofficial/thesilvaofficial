@@ -8,9 +8,9 @@
 
 ## Just a programming lover
   
-- 🏨 I'm currently working on a Host
+- 🏨 I'm currently working on a CNC Machines
 - 🧑 Fun Fact: I love listening to music
-- 🏆 2023 Goals: Release my Host
+- 🏆 2024 Goals: Idk
 - 🍺 I live in Portugal
 
 ## Last Releases:
