@@ -15,7 +15,7 @@
 
 ## Last Releases:
 #### Web Designs:
-- [CNC Code Simulator Website (Soon!)](https://github.com/xthesilvax/)
+- [CNC Code Simulator (Soon!)](https://github.com/xthesilvax/)
 
 
 ## Contributions:
